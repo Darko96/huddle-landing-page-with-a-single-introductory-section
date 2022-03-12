@@ -37,7 +37,7 @@ body {
   gap: 5.9rem;
   margin: 0 auto;
   justify-content: center;
-  margin-bottom: 12rem;
+  margin-bottom: 4rem;
 }
 
 .hero-img {
@@ -103,6 +103,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 1.6rem;
+  list-style: none;
 }
 
 .sm-links a {
